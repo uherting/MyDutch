@@ -1,6 +1,3 @@
-# Source
-- Video 01 (https://www.youtube.com/watch?v#jzTUo7efsowZ)
-
 # Times of the day
 Dutch|English
 -----|-------
@@ -40,6 +37,8 @@ like above plus:
 - Doeg!
 
 # Additional resources:
-How to say SEE YOU in Dutch: https://www.youtube.com/watch?v#SdzgU05NcLUZ
+* How to say SEE YOU in Dutch: https://www.youtube.com/watch?v=SdzgU05NcLU
+* Source: https://www.youtube.com/watch?v=jzTUo7efsow
+
 
 
